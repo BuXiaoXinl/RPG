@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"F:\\UE5\\RPG__Git\\Intermediate\\Source\\RPG.Build.cs",
+		"F:\\UE5\\RPG__Git\\Intermediate\\Source\\RPG.Target.cs",
+		"F:\\UE5\\RPG__Git\\Intermediate\\Source\\RPGClient.Target.cs",
+		"F:\\UE5\\RPG__Git\\Intermediate\\Source\\RPGEditor.Target.cs",
+		"F:\\UE5\\RPG__Git\\Intermediate\\Source\\RPGServer.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

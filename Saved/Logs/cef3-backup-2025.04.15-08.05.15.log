@@ -1,0 +1,25 @@
+[0415/152532.060:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 13
+[0415/152551.662:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0415/152551.662:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0415/152551.662:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0415/152551.678:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0415/152553.876:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0415/152553.907:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0415/152611.021:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0415/152611.037:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0415/152611.037:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0415/152611.053:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0415/152613.203:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0415/152613.219:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0415/152648.248:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0415/152655.004:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0415/152655.004:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0415/152715.046:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0415/153132.913:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0415/153132.914:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0415/153339.915:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 89
+[0415/153528.735:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 133
+[0415/160425.412:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[0415/160513.716:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0415/160514.902:WARNING:gpu_process_host.cc(1016)] Reinitialized the GPU process after a crash. The reported initialization time was 245 ms
+[0415/160515.137:WARNING:pref_notifier_impl.cc(61)] Init observer found at shutdown.

@@ -23,6 +23,14 @@
 		{
 			"Name": "UNTLink",
 			"Enabled": true
+		},
+		{
+			"Name": "Landmass",
+			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }
